@@ -1,0 +1,5 @@
+{
+  "name": "Smart Proportional Spin Wheel",
+  "description": "A highly interactive spin wheel with proportional slice adjustment, locking functionality, and smart equalization.",
+  "requestFramePermissions": []
+}
